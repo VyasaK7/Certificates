@@ -1,6 +1,6 @@
 # Certificates
 
-This Repo contains technical certificates that I have received over the course of my academic life.
+This Repo contains technical certificates that I have received over the course of my academic life
 
 Online Certificates:
 
